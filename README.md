@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <h1 style="background-color:#fff">Test</h1>
+    <h1 style="background-color=#fff">Test</h1>
   </body>
 </html>html
 
