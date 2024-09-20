@@ -1,4 +1,3 @@
-<!--
 ## Hi there 👋
 
 
@@ -14,20 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- -->
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
-  <body>
-    <h1 style="background-color=#fff">Test</h1>
-  </body>
-</html>
-
-<!--
 <h2 align="center">📊My Stats</h2>
 
 <p align="center">
@@ -45,4 +31,3 @@ Here are some ideas to get you started:
 </picture>
   
 </p>
--->
