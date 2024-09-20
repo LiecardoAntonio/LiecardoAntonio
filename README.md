@@ -25,9 +25,9 @@ Here are some ideas to get you started:
   <body>
     <h1 style="background-color=#fff">Test</h1>
   </body>
-</html>html
+</html>
 
-
+<!--
 <h2 align="center">📊My Stats</h2>
 
 <p align="center">
@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 </picture>
   
 </p>
+-->
