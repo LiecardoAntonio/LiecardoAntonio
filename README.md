@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**LiecardoAntonio/LiecardoAntonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning web programming
 - 👯 I’m looking to collaborate on web building frontend / backend projects
 - 🤔 I’m looking for help with ReactJS and Laravel11
